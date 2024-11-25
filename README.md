@@ -14,10 +14,6 @@ The **"Cafe Management"** project is an open-source web application designed to 
 
 🌠 **FAQs:** There are pre-answered questions mentioned in the FAQ section to provide relevant information to the users. Set of predefined questions have been used.
 
-
-## Hacktoberfest 2023 
-![hacktoberfest-banner](https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2023/10/02100331/1600_Hacktoberfest-scaled.jpg)
-Cafe-Management is a part of Hacktoberfest 2023, an annual month-long event that takes place every October. It encourages participation in open-source development by inviting individuals to contribute to various open-source projects on platforms like GitHub. 
 ## Contributing
 
 Contributions are always welcome!
@@ -45,9 +41,5 @@ Thanks for contributing!
 - Javascript
 - JQuery
 
-## Authors
-
-- [@Kavyam172](https://www.github.com/Kavyam172)
-
-## Maintained By
-- Kavyam Sachdeva, Technical Head, Open Source Chandigarh(https://www.github.com/Kavyam172)
+download the dependencies in the vs code terminal given "instructions.txt"
+Download the first four dependencies then the lastsyntax is for eunning the application
